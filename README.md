@@ -36,10 +36,10 @@ Este projeto segue princípios de **arquitetura modular**, garantindo escalabili
 
 ### **Principais Tecnologias e Bibliotecas**  
 
-✅ **Python 3.8+** – Linguagem base para análise e processamento de dados.  
-✅ **Pandas / NumPy** – Manipulação e tratamento de dados estruturados.  
-✅ **Matplotlib / Seaborn** – Visualização de dados e gráficos avançados.  
-✅ **Scikit-Learn** – Modelos de aprendizado de máquina e métricas de avaliação.  
-✅ **Jupyter Notebook** – Desenvolvimento interativo e documentação dos insights.  
+ **Python 3.8+** – Linguagem base para análise e processamento de dados.  
+ **Pandas / NumPy** – Manipulação e tratamento de dados estruturados.  
+ **Matplotlib / Seaborn** – Visualização de dados e gráficos avançados.  
+ **Scikit-Learn** – Modelos de aprendizado de máquina e métricas de avaliação.  
+ **Jupyter Notebook** – Desenvolvimento interativo e documentação dos insights.  
 
 ---
